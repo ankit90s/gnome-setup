@@ -21,7 +21,7 @@ apt update && apt upgrade -y
 apt autoremove -y gnome-games hdate hdate-applet thunderbird totem gnome-music cheese kasumi xiterm+thai goldendict mlterm evolution
 
 # install terminal based applications
-apt install -y wget axel curl ranger htop translate-shell cmatrix alacritty exa kitty nvidia-detect fzf
+apt install -y wget axel curl ranger htop translate-shell cmatrix alacritty exa kitty nvidia-detect fzf bash-completion
 
 # install applications
 apt install -y mpv mpv-mpris
