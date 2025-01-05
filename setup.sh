@@ -24,7 +24,7 @@ apt autoremove -y gnome-games hdate hdate-applet thunderbird totem gnome-music c
 apt install -y wget axel curl ranger htop translate-shell cmatrix alacritty exa kitty nvidia-detect fzf bash-completion
 
 # install applications
-apt install -y mpv mpv-mpris
+apt install -y mpv mpv-mpris quiterss
 
 # install libreoffice themes
 apt install -y libreoffice-style*
