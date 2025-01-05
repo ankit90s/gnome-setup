@@ -32,6 +32,9 @@ apt install -y libreoffice-style*
 # install linux mint packages
 apt install -y mint-y-icons mintstick
 
+# packages needed to for gtk theme installation
+apt install -y gnome-themes-extra gtk2-engines-murrine sassc
+
 # install restricted extras
 apt install -y ttf-mscorefonts-installer rar unrar libavcodec-extra gstreamer1.0-libav gstreamer1.0-plugins-ugly gstreamer1.0-vaapi
 
